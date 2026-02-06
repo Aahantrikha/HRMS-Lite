@@ -1,0 +1,44 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Database files
+backend/data/
+*.db
+
+# Environment variables
+.env
+.env.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Build files
+dist/
+build/
+
+# Duplicate/unnecessary folders
+hrms-lite/
+routes/
+backend/models/
+
+# Internal documentation (not for GitHub)
+ASSIGNMENT_COMPLIANCE_REPORT.md
+REQUIREMENTS_CHECKLIST.md
+GITHUB_PUSH_CHECKLIST.md
+PROJECT_STRUCTURE.md
+QUICKSTART.md
+DEPLOYMENT_GUIDE.md
+DEPLOYMENT_STEPS.md
