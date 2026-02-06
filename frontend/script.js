@@ -1,4 +1,4 @@
-const API = "http://localhost:5000/api";
+const API = "https://hrms-lite-production-bcc6.up.railway.app/api";
 
 // Tab switching
 function showTab(tabName) {
