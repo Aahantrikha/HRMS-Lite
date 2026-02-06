@@ -4,11 +4,11 @@ A lightweight, full-stack web application for managing employee records and trac
 
 ## 🚀 Live Demo
 
-- **Frontend URL:** [To be deployed on Vercel]
+- **Frontend URL:** https://hrms-lite-3ue26stj4-aahantrikhas-projects.vercel.app
 - **Backend API:** https://hrms-lite-production-bcc6.up.railway.app
 - **GitHub Repository:** https://github.com/Aahantrikha/HRMS-Lite
 
-> **Backend is live!** Frontend deployment coming next.
+> **✅ Fully deployed and ready for submission!**
 
 ## 📋 Features
 
